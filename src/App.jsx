@@ -89,7 +89,7 @@ function App() {
         </div>
 
 
-        <div className="bg-cover bg-[url('images/background-small.webp')] w-screen h-screen flex flex-col justify-center text-center px-10">
+        <div className="bg-cover bg-[url('/images/background-small.webp')] w-screen h-screen flex flex-col justify-center text-center px-10">
           <h1 className="sm:text-7xl text-3xl sm:mt-0 mt-20 text-[43px] font-bold sm:text-gray-700 text-black max-w-[500px] mx-auto text-shadow-white">Find a perfect recipe for you!</h1>
           <div className="mt-12 text-2xl sm:text-gray-700 text-black font-bold max-w-[850px] mx-auto text-shadow-white">Search for a recipe in less than a second! Type one word in search box and enjoy many tasty recipes. Choose one that looks the best for you and let's see how to cook it.</div>
         </div>
