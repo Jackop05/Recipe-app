@@ -8,7 +8,8 @@ export default {
     extend: {
       textShadow: {
         'white': '0 0 50px white, 0 0 10px white, 0 0 10px white',
-      },
+      }
     },
   },
+  plugins: [],
 }
