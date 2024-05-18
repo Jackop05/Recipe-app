@@ -11,7 +11,4 @@ export default {
       },
     },
   },
-  plugins: [
-    require('tailwindcss-textshadow')
-  ],
 }
