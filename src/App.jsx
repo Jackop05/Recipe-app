@@ -121,7 +121,7 @@ function App() {
         }
 
         {recipeIndex !== null &&
-          <div className='fixed sm:top-[25%] sm:left-[25%] sm:w-[50%] sm:h-[50%] top-[20%] left-[10%] w-[80%] h-[60%] bg-blue-200 p-12 rounded-[40px] overflow-x-hidden z-20'>
+          <div className='fixed sm:top-[25%] sm:left-[25%] sm:w-[50%] sm:h-[50%] top-[25%] left-[10%] w-[80%] h-[50%] bg-blue-200 p-12 rounded-[40px] overflow-x-hidden z-20'>
             <div className='sm:text-4xl text-2xl text-gray-700 font-bold mb-6'>Ingredients:</div>
             {recipes[recipeIndex].ingredientsList.map((ingredient) => {
               return (
