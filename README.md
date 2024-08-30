@@ -46,20 +46,5 @@
 **Repository Structure**  
 The repository contains the source code written in `JavaScript` using `React`. The app is structured as follows:
 
-```
-RecipeApp
-├───public
-│   ├───images
-│   │   ├───icon.png
-│   │   ├───background-1.png
-│   │   ├───background-small.webp
-│   └───index.html
-├───src
-│   ├───App.jsx
-│   ├───main.jsx
-│   └───styles.css
-└───README.md
-```
-
 ## 🙋‍♂️ Authors
 - **Jakub Sztobryn** ~ Warsaw University of Technology student
