@@ -3,7 +3,7 @@
 ## 📝 Project Overview
 "RecipeApp" is a user-friendly `React application` designed to help users discover a wide range of recipes from various cuisines around the world. The application leverages `TheMealDB API` to fetch detailed recipe information, including ingredients, cooking instructions, and images. With an intuitive and clean interface, users can easily search for recipes based on specific ingredients and explore new dishes to try. This project showcases my expertise in `React development`, API integration, and responsive design, making it an ideal portfolio piece for potential employers and collaborators.
 
-![image](https://github.com/user-attachments/assets/d4df4587-7729-41d5-9bb6-648857ca6da1)
+![image](https://github.com/user-attachments/assets/2c73d577-c941-47f3-973d-616a8e78ccf6)
 
 ## 💡 Features
 - **Ingredient-based Recipe Search:**  
